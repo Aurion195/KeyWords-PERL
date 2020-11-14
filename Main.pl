@@ -43,8 +43,6 @@ foreach(@text) {
     #Quand on a l'ensemble du fichier, on le met dans une array et on envoie l'array à la fonction   
     my @newFile = &recupererLigneAvecRegex(<$file>) ;
     
-    
-
     print"@newFile";
     #foreach my $myLigne (@ligne) {
     #    chomp $myLigne;
