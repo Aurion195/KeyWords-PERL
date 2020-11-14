@@ -1,0 +1,8 @@
+requete regex pour ne pas prendre les valeurs ->
+(^(TYPE|DOI|JOURNAL|DATE|AUTHOR|ADDRESS|ACRONYMS|KEYWORDS).*)
+
+requetes regex pour avoir les valeurs <tex-math> ->
+(?=< tex-math >)(.*\n?)( < /tex-math >)
+
+requetes regex pour avoir les valeurs <mml-math> ->
+(?=<mml:math>)(.*\n?)( </math>)
