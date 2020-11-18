@@ -2,7 +2,10 @@ requete regex pour ne pas prendre les valeurs ->
 (^(TYPE|DOI|JOURNAL|DATE|AUTHOR|ADDRESS|ACRONYMS|KEYWORDS).*)
 
 requetes regex pour avoir les valeurs <tex-math> ->
-(?=< tex-math >)(.*\n?)( < /tex-math >)
+(?=< tex-math >)(.*\n?)( < \/tex-math >)
 
 requetes regex pour avoir les valeurs <mml-math> ->
-(?=<mml:math>)(.*\n?)( </math>)
+(?=<mml:math>)(.*\n?)( <\/math>)
+
+requetes regex pour ne pas prendre les commentaires dans le fichier stop-ang ->
+^([a-z].*)

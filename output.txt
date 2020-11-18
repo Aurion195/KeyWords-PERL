@@ -1,0 +1,125 @@
+HASH(0x7fffeb30fff0)title	superconductivity two-dimensional repulsive rashba_gas low electron density
+abstract	we superconducting instability resulting superconducting states two-dimensional repulsive fermi gas rashba spin-orbit coupling low electron density (namely fermi energy ef lower energy er dirac point induced rashba coupling).
+abstract	we find superconductivity enhanced dimensionless fermi energy ϵ f ( ϵ f ≡ e f / e r ) decreases, due two reasons.
+abstract	first, density states ϵ f increases 1 / ϵ f .
+abstract	second, particle-hole bubble anisotropic, resulting increasing effective attraction.
+abstract	the superconducting state total angular momentum j z = + 2 (or j z = - 2 ) channel chern_number c = 4 (or c = - 4 ), breaking time reversal symmetry spontaneously.
+abstract	although putative leggett mode expected due two-gap nature superconductivity, find damped.
+abstract	more importantly, sufficiently large zeeman coupling applied superconducting state, chern_number tuned ±1 majorana zero modes exist vortex cores.
+despite effect originating relativity, spin-orbit coupling (soc) found way nonrelativistic physics.
+condensed matter physics, novel systems soc playing significant role found recently, topological insulators [1, 2], two-dimensional (2d) rashba_gases interfaces oxides [3, 4], weyl semimetals [5] soc-induced mott insulators [6] states 5d series [7]; ultracold quantum gases, atoms neutral, synthetic soc generated atom-light interaction (see [8, 9] review).
+turning superconductivity, non-centrosymmetric superconductors, soc mixes spin singlet triplet pairings, extensively studied [10-14]; 2d, superconductivity related soc observed oxide interfaces [4, 15].
+here, 2d repulsive gas rashba soc low density.
+single-particle hamiltonian 1 h = k 2 2 m + α r ( σ #x020d7; × k ) · n ˆ , m effective mass, α r characterizes strength rashba soc, σ #x020d7; 's components pauli matrices, n ˆ direction normal 2d system.
+unitary transformation helicity basis, finds dispersion 2 e k Λ = ( k - Λ k r ) 2 2 m , Λ = ± 1 helicity k r = m α r rashba momentum.
+(we shifted energy k r 2 / ( 2 m ) , compensated shift fermi energy.)
+spin degeneracy lifted, resulting two bands touching dirac point.
+system, competition three energy scales-the fermi energy ef, coulomb repulsion 'rashba energy' e r = k r 2 / ( 2 m ) -determines system's phases.
+define dimensionless fermi energy ϵ f = e f / e r .
+'low density', refer regime 0 < ϵ f < 1 , shown 1(a).
+low-density limit, fermi energy smaller coulomb interaction soc energy, wigner crystalline phases found [16], focus weak-coupling limit un tot < 1 (although n tot ~ 1 / ϵ f discussed below), u short-range repulsion ntot total density states (dos) fermi energy.
+investigate instability system superconducting states.
+earlier papers [17, 18], 'high density' case ϵ f > 1 studied.
+found ϵ f decreases large value 1, general, superconductivity enhanced, total angular momentum channel jz cooper pairs condense decreases large value arithmetic sequence step 2.
+finally, ϵ f ≳ 1 , jz 2.
+superconductivity predominantly resides outer fermi surface, interband coupling induces small gap inner fermi surface.
+superconducting state breaks time reversal symmetry (trs), fermi surfaces fully gapped.
+1. (a) dispersion relation (fixing ky = 0), helicity labeled.
+low density, fermi level indicated dashed line dirac point energy er. (b) two fermi surfaces, annulus filled electrons helicity +1.
+black arrows represent direction spins fermi surfaces.
+topological change fermi surface occurs ϵ f = 1 , 'low density' regime interested in.
+shown 1(b), electron-like hole-like fermi surface, annulus filled electrons.
+fermi wave vectors (rescaled kr) k f µ = 1 + µ ϵ f , µ = 1 -1, corresponding outer inner fermi surface, respectively.
+note two fermi surfaces helicity Λ = 1 .
+dos fermi surface n µ = ν 0 ( 1 ϵ f + µ ) , ν 0 = m / ( 2 Π ) .
+superconductivity enhanced, total dos increases decreasing ϵ f n tot ~ 1 / ϵ f .
+addition, wonder topological change fermi surfaces bring dielectric functions, give rise attraction nonzero jz channels.
+enhancement conventional superconductivity attractive rashba_gases low density studied [19], address problem repulsion, leads unconventional superconductivity.
+following renormalization group (rg) approach developed [17, 18], find low density, superconducting instability occurs jz = 2 channel, critical temperature tc increases decreasing ϵ f .
+increasing orders magnitude, resulting tc quite low due weak coupling nature formalism.
+theme condensed matter physics search majorana fermions various systems [20].
+addition intrinsic chiral p-wave superconductors [21-24], spin-orbit coupled systems, topological insulators [25], semiconductors zeeman splitting proximity s-wave superconductors [26] hole-doped semiconductors [27] support majorana fermion modes vortex cores.
+show intrinsic superconducting state found host majorana fermions sufficiently large zeeman field applied, topological phase diagram derived.
+collective modes superconducting state.
+due two-gap nature, addition usual bogoliubov-anderson-goldstone (bag) mode pushed plasma energy, collective mode corresponding oscillation phase difference two gaps, leggett mode, exist.
+however, values interband intraband couplings parameter regime support undamped leggett mode.
+__section__ methods.
+__section__ perturbative expansion rg approach.
+system onsite repulsive interactions, interacting hamiltonian u positive.
+interacting hamiltonian helicity basis reads [ 17 , 18 ] \)k .
+following weak-coupling rg approach developed [ 17 , 18 ] integrating high energy modes bandwidth low-energy cutoff Ω, derive effective action low energy modes \)β=1/(kbt) 's <sup>*</sup> 's grassmann numbers.
+focused cooper channel, couplings (marginally) relevant ones [ 36 ], decomposed couplings angular momentum channels, \( \)φ=θk'-θk .
+j = 0 channel, u dominates, get attractive interactions.
+therefore, go higher orders look nonvanishing terms higher angular momentum channels.
+second order, particle-hole bubble particle-particle bubble, latter j = 0 component.
+correction particle-hole bubble (shown 6 (a)) \( \)k' restricted fermi surface µ Λ , respectively.
+straightforward calculations show \( \)ϵf , e e independently.
+renormalized coupling appearing equation ( 5 ) reads \)ΛµΛ(s)(ϵf,cosφ)≡12(ΛµΛ(ϵf,cosφ)+ΛµΛ(ϵf,-cosφ)) .
+functions \( \)ΛµΛ(s)(ϵf,cosφ) plotted 7 .
+\( \)Λ+-(s) changes sign due change helicity inner fermi surface.
+clearly, functions depend strongly φ smaller \( \)ϵf .
+fourth order u , term satisfies two conditions: (i) finite nonzero angular momentum channel; (ii) having logarithmic divergence \( \)ln(a/Ω) , give rise instability.
+term shown 6 (b).
+including it, renormalized couplings '*' matrix multiplication, bare couplings replaced renormalized couplings.
+solution \)g±(jz) 's.
+find long \( \)ϵf>1 [ 17 , 18 ].
+intraband intraband couplings shown 2 .
+effective coupling \( \)u2ntot2 , respectively.
+__section__ results.
+__section__ effective couplings critical temperature.
+critical temperature given \)v+-(jz) interband coupling.
+shown 2 j = 2 channel.
+seen, \( \)ϵf~0.5 , superconductivity predominantly resides outer fermi surface; inner fermi surface participates quite low density.
+effective coupling \( \)u2ntot2 , respectively.
+\( \)untot≳1 , see 4 effective coupling restricted small justifiable parameter regime.
+however, t increase orders magnitude \( \)ϵf decreases.
+u fixed, superconductor-insulator transition expected density gas decreases wigner crystal state exist strong coupling [ 16 ], concerned case.
+__section__ topological phase diagram zeeman field.
+discussed [ 17 , 18 ], ground_state breaks trs spontaneously system goes j = 2 \( \)jz=-2 superconducting state, energy.
+due soc, paring term hamiltonian triplet singlet part, reads \)k k -axis.
+search majorana fermions, solving bogoliubov-de gennes equations presence vortices, apply index theorem proved [ 28 ] superconductors odd chern_number support majorana zero modes.
+[ 17 , 18 ], chern_number c state shown 2 jz \( \)ef<er .
+odd c , apply zeeman field h [ 26 , 29 , 30 ] couples system \)jz=±2 different energies.
+pointed [ 29 ], \( \)jz=-2 state.
+two cases related time reversal operation, just consider former case.
+calculate chern_number find three topological phases, depending position fermi level h , shown 5 .
+topological phase diagram explained follows.
+\( \)hz<0 , dirac point gapped, chern_number defined band superconducting state.
+due winding spin \( \)k=0 , band helicity -1 (+1) carries chern_number 1 (-1).
+addition, phase winding order parameter superimposes j chern_number band.
+therefore, inner outer band carry chern_number \( \)jz-1 , respectively.
+\( \)c=2jz .
+\( \)ef-er<-|hz| , fermi level crosses outer band twice, case electron pocket hole pocket contribute opposite chern_number, c = 0, cross band c = 0.
+two parameter regimes, i.e. \( \)c=jz-1 .
+case, index theorem mentioned above, majorana zero modes exist edge vortex cores.
+low density, left part phase diagram 5 (b) available.
+__section__ collective modes.
+collective modes superconductors studied bogoliubov [ 31 ] anderson [ 32 , 33 ].
+found goldstone mode accompanying spontaneous breaking u (1) gauge symmetry neutral system, corresponds phase oscillations superconducting order parameter.
+charged system, called bag mode pushed plasma frequency.
+two-band superconductors, leggett predicted collective mode corresponding oscillations relative phase two superconducting condensates [ 34 ].
+superconducting state derived above, due two-gap nature, addition bag mode, leggett mode expected exist.
+detailed calculations carried supplemental material.
+effectively, j = 2 channel, two-band p + p superconductor.
+actually, bare interaction attractive, superconductivity occur j = 0 channel, superconducting state two-band p + p nature.
+approach applies case.
+find bag leggett modes, former pushed plasma energy, latter dispersion \)Λ=1,2 labels outer inner band.
+note second term equation ( 21 ) appear two-band s -wave superconductor.
+order leggett mode exist, necessary \( \)g11g22-g122>0 .
+however, parameter regime shown 2 satisfy condition, mode damped model.
+soc superconductors, leggett mode exist [ 35 ].
+__section__ discussion conclusion.
+looking various ways increase critical temperature superconductors important direction condensed matter physics.
+showed increasing rashba soc decreasing fermi energy strongly enhance superconductivity 2d repulsive fermi gas low density regime.
+shown 4 , assume un fixed \( \)ϵf , resulting higher t high density regime.
+superconductivity weak observe weak-coupling approach, wonder soc helps strongly correlated systems, worthy study.
+real materials, underlying lattice affect model aspects.
+dos suppressed: increasing lowering \( \)ϵf , diverge.
+particle-hole bubble affected.
+due two consequences, behavior t modified, trend t increases lowering \( \)ϵf probably remain same.
+moreover, spontaneous trs breaking state stable two pairing components j = 2 state, d \( \)dx2-y2 order parameter, belong irreducible representation point group, satisfied lattice threefold rotational symmetry.
+conclusion, investigated superconducting instability 2d rashba_gas repulsive interaction low density, weak-coupling limit.
+density decreases, superconducting transition temperature increases significantly.
+superconducting state j = 2 channel.
+zeeman field applied, state odd chern_number, majorana zero modes supported.
+leggett mode exist due specific parameters, expect appear spin-orbit coupled superconductors two-gap nature.

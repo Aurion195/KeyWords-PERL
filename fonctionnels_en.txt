@@ -28,7 +28,7 @@ et
 al
 conclusion
 keywords
-abstract
+abstract	
 title
 inline
 formula
