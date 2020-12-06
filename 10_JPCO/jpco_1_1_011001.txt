@@ -6,7 +6,7 @@ AUTHOR	 Wang, Luyang;
 ADDRESS	Institute for Advanced Study, Tsinghua University , Beijing, 100084, People's Republic of China > State Key Laboratory of Optoelectronic Materials and Technologies, School of Physics, Sun Yat-Sen University , Guangzhou 510275, People's Republic of China > 
 TITLE	Superconductivity in a two-dimensional repulsive Rashba_gas at low electron density
 ACRONYMS	Total Density_of States (DOS) ; Renormalization Group (RG) ; Time Reversal Symmetry (TRS) ; 
-KEYWORDS	 superconductivity; low density Rashba_gas; renormalization group; collective modes; Majorana zero modes; repulsive interaction
+KEYWORDS	 superconductivity; low density; Rashba_gas; renormalization group; collective modes; Majorana zero modes; repulsive interaction
 ABSTRACT	We study the superconducting instability and the resulting superconducting states in a two-dimensional repulsive Fermi gas with Rashba spin-orbit coupling at low electron density (namely the Fermi energy EF is lower than the energy ER of the Dirac point induced by Rashba coupling).
 ABSTRACT	We find that superconductivity is enhanced as the dimensionless Fermi energy ϵ F ( ϵ F ≡ E F / E R ) decreases, due to two reasons.
 ABSTRACT	First, the density of states at ϵ F increases as 1 / ϵ F .
